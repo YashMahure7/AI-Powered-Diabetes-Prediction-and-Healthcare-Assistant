@@ -44,18 +44,25 @@ The system combines traditional Machine Learning for diabetes prediction with a 
 
 User Input
 ↓
+
 Streamlit UI
 ↓
+
 Machine Learning Model (Random Forest)
 ↓
+
 Prediction Result
 ↓
+
 Llama 3 Explanation
 ↓
+
 RAG Retrieval (FAISS)
 ↓
+
 Medical Knowledge Base
 ↓
+
 AI Response
 
 ---
@@ -150,8 +157,8 @@ Random Forest achieved the best overall performance and was selected as the fina
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YashMahure7/diabetes-prediction-ml.git
-cd diabetes-prediction-ml
+git clone https://github.com/YashMahure7/AI-Powered Diabetes Prediction and Healthcare Assistant.git
+cd AI-Powered Diabetes Prediction and Healthcare Assistant
 ```
 
 ### Install Dependencies
