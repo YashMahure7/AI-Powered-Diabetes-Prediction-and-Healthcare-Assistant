@@ -42,20 +42,34 @@ The system combines traditional Machine Learning for diabetes prediction with a 
 
 ## 🏗️ Project Architecture
 
-User Input
+User Input 
+
 ↓
+
 Streamlit UI
+
 ↓
+
 Machine Learning Model (Random Forest)
+
 ↓
+
 Prediction Result
+
 ↓
+
 Llama 3 Explanation
+
 ↓
+
 RAG Retrieval (FAISS)
+
 ↓
+
 Medical Knowledge Base
+
 ↓
+
 AI Response
 
 ---
